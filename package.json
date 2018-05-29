@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Prohibit using IP address directly to access the server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daidaitu1314/ip-forbidden.git"
+  },
+  "keywords": [
+    "ip",
+    "forbidden"
+  ],
+  "author": "liulongbin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daidaitu1314/ip-forbidden/issues"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
