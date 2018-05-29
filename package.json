@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "ip-forbidden",
   "version": "1.0.0",
   "description": "Prohibit using IP address directly to access the server",
   "main": "index.js",
